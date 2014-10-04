@@ -15,6 +15,8 @@ TIME,SYMBOL,BID,ASK
 Sample Trade Format:
 TIME,SYMBOL,SIDE,PRICE,QUANTITY
 
+For now, the project is still a prototype in Java. An immediate goal is to port it to C++ and then further append other functions.
+
 Please get in touch if you want to learn more.
 
 Thx.
